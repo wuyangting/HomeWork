@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\cd31e0fd146d6b013ded9f81155862e5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f0b85cf96b0b2ea76bd35753a2d04c51\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\48213ee05651672ffdb89e9d32efc2b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\73e604232226d695a6fdc55c26ba82c0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d9f70dfa445888bd6d410388866f3817\AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\390cece6784bce6d6382f044c00fce48\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b5d2461fe73af738bb27e4880dfb354\AndroidManifest.xml:2:1-17:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0f33e79436546d098d2dafd888e73249\AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\c5ed622ef00fc0f94e12293bbbad0280\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a776bf776748a897ae4f720327c764c8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\236513003e80eaa46206c716340a3be6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0c29af3ced2f007e3c53e45cffbd33d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\ffd91536132d96e68f032c864880587d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8b6e6601f67e2ce441b5f620e6afc9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\de10ec30809eb20eb7cdae4af9c5f2b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\881282af2210624df1285b013e21acb2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a49e3efd61dc7f306dbd79f7ed4f2f05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8814dfd58d6761237e7006479497258\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\25105df2f84f588ab39bb047d5629616\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\4226a51e36f19f0012e5cc999b062c25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\07a6521604fa68334621b5bd83df57bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1dabca944f3faf3275463916f9429426\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d1069b942d66480a2705fd9da12626b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9bbd15a77251d7a352f3690a533a6014\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\b8a835a1753447c57504d8761282efc3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1aa1324d2c53585810dd2730b53feeaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f78aa10783af20ea9c7bc35402a94af5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0bdc7e3c48f41d9c0cc6e80efee45b87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\99a1d740be6dbba03337b13e42102172\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\bb5c36a3f1855d4024ba0cae29ce6575\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\278948a9fa52dd22e62d99c6cb10f5e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\18531591fc4bcbf6cb5143409b0b7bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a23f14bbf1b2076e6dc04beee4b54031\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\30f07af0d6e5da122b0af237b3d046b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\651f1e679238a52673604b5c159dc341\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\2f6a1714c9eeb0483afd24b1f3845387\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a42db5ee1ff8e8ba2e297acf88477289\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b237eccd6a0ee0f2023a916e7b8052b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9d065090afec8ed55f50647b5291746b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\cd31e0fd146d6b013ded9f81155862e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\cd31e0fd146d6b013ded9f81155862e5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\48213ee05651672ffdb89e9d32efc2b9\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\48213ee05651672ffdb89e9d32efc2b9\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\73e604232226d695a6fdc55c26ba82c0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\73e604232226d695a6fdc55c26ba82c0\AndroidManifest.xml:10:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\390cece6784bce6d6382f044c00fce48\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\390cece6784bce6d6382f044c00fce48\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b5d2461fe73af738bb27e4880dfb354\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b5d2461fe73af738bb27e4880dfb354\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f78aa10783af20ea9c7bc35402a94af5\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f78aa10783af20ea9c7bc35402a94af5\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\99a1d740be6dbba03337b13e42102172\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\99a1d740be6dbba03337b13e42102172\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.talk2.MainActivity
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\cd31e0fd146d6b013ded9f81155862e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\cd31e0fd146d6b013ded9f81155862e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f0b85cf96b0b2ea76bd35753a2d04c51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f0b85cf96b0b2ea76bd35753a2d04c51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\48213ee05651672ffdb89e9d32efc2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\48213ee05651672ffdb89e9d32efc2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\73e604232226d695a6fdc55c26ba82c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\73e604232226d695a6fdc55c26ba82c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d9f70dfa445888bd6d410388866f3817\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d9f70dfa445888bd6d410388866f3817\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\390cece6784bce6d6382f044c00fce48\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\390cece6784bce6d6382f044c00fce48\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b5d2461fe73af738bb27e4880dfb354\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b5d2461fe73af738bb27e4880dfb354\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0f33e79436546d098d2dafd888e73249\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0f33e79436546d098d2dafd888e73249\AndroidManifest.xml:19:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\c5ed622ef00fc0f94e12293bbbad0280\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\c5ed622ef00fc0f94e12293bbbad0280\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a776bf776748a897ae4f720327c764c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a776bf776748a897ae4f720327c764c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\236513003e80eaa46206c716340a3be6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\236513003e80eaa46206c716340a3be6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0c29af3ced2f007e3c53e45cffbd33d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0c29af3ced2f007e3c53e45cffbd33d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\ffd91536132d96e68f032c864880587d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\ffd91536132d96e68f032c864880587d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8b6e6601f67e2ce441b5f620e6afc9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8b6e6601f67e2ce441b5f620e6afc9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\de10ec30809eb20eb7cdae4af9c5f2b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\de10ec30809eb20eb7cdae4af9c5f2b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\881282af2210624df1285b013e21acb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\881282af2210624df1285b013e21acb2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a49e3efd61dc7f306dbd79f7ed4f2f05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a49e3efd61dc7f306dbd79f7ed4f2f05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8814dfd58d6761237e7006479497258\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f8814dfd58d6761237e7006479497258\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\25105df2f84f588ab39bb047d5629616\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\25105df2f84f588ab39bb047d5629616\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\4226a51e36f19f0012e5cc999b062c25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\4226a51e36f19f0012e5cc999b062c25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\07a6521604fa68334621b5bd83df57bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\07a6521604fa68334621b5bd83df57bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1dabca944f3faf3275463916f9429426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1dabca944f3faf3275463916f9429426\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d1069b942d66480a2705fd9da12626b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\d1069b942d66480a2705fd9da12626b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9bbd15a77251d7a352f3690a533a6014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9bbd15a77251d7a352f3690a533a6014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\b8a835a1753447c57504d8761282efc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\b8a835a1753447c57504d8761282efc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\31349ae25c11521aa4bd469e07a32cae\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1aa1324d2c53585810dd2730b53feeaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\1aa1324d2c53585810dd2730b53feeaf\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f78aa10783af20ea9c7bc35402a94af5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\f78aa10783af20ea9c7bc35402a94af5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0bdc7e3c48f41d9c0cc6e80efee45b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\0bdc7e3c48f41d9c0cc6e80efee45b87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\99a1d740be6dbba03337b13e42102172\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\99a1d740be6dbba03337b13e42102172\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\bb5c36a3f1855d4024ba0cae29ce6575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\bb5c36a3f1855d4024ba0cae29ce6575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\278948a9fa52dd22e62d99c6cb10f5e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\278948a9fa52dd22e62d99c6cb10f5e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\18531591fc4bcbf6cb5143409b0b7bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\18531591fc4bcbf6cb5143409b0b7bbc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a23f14bbf1b2076e6dc04beee4b54031\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a23f14bbf1b2076e6dc04beee4b54031\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\30f07af0d6e5da122b0af237b3d046b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\30f07af0d6e5da122b0af237b3d046b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\651f1e679238a52673604b5c159dc341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\651f1e679238a52673604b5c159dc341\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\2f6a1714c9eeb0483afd24b1f3845387\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\2f6a1714c9eeb0483afd24b1f3845387\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a42db5ee1ff8e8ba2e297acf88477289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\a42db5ee1ff8e8ba2e297acf88477289\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b237eccd6a0ee0f2023a916e7b8052b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\3b237eccd6a0ee0f2023a916e7b8052b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9d065090afec8ed55f50647b5291746b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\legion\.gradle\caches\transforms-2\files-2.1\9d065090afec8ed55f50647b5291746b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		ADDED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\legion\AndroidStudioProjects\MyApplication9\MyApplication2\talk2\src\main\AndroidManifest.xml
