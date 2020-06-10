@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_shouye"
+        android:enabled="true"
+        android:icon="@drawable/main_select"
+        android:title="@string/main_shouye"/>
+    <item
+        android:id="@+id/main_class"
+        android:enabled="true"
+        android:icon="@drawable/class_select"
+        android:title="@string/main_class"/>
+    <item
+        android:id="@+id/main_yue_class"
+        android:enabled="true"
+        android:icon="@drawable/yue_class_select"
+        android:title="@string/main_yue_class"/>
+    <item
+        android:id="@+id/main_person"
+        android:enabled="true"
+        android:icon="@drawable/person_select"
+        android:title="@string/main_person"/>
+</menu>
