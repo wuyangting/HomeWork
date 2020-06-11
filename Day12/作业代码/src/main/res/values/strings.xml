@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">timeAndClass</string>
+    <string name="main_shouye">首页</string>
+    <string name="main_class">课程</string>
+    <string name="main_yue_class">约课记录</string>
+    <string name="main_person">个人</string>
+</resources>
