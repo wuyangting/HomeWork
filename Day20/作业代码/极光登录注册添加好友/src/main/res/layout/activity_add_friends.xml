@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.AddFriendsActivity">
+<EditText
+    android:id="@+id/search_name"
+    app:layout_constraintTop_toTopOf="parent"
+    android:hint="搜索用户名"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
+    <Button
+        app:layout_constraintTop_toBottomOf="@id/search_name"
+        android:text="添加好友"
+        android:id="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_marginTop="35dp"
+        android:textSize="25sp"
+        app:layout_constraintTop_toBottomOf="@id/add"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_width="wrap_content"
+        android:text="好友申请列表"
+        android:layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView
+        app:layout_constraintTop_toBottomOf="@id/add"
+        android:layout_marginTop="80dp"
+        android:id="@+id/rec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

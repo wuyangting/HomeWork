@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/x330"
+    android:background="#00B0F6">
+
+    <ImageView
+        android:id="@+id/navigation_header_img"
+        android:layout_width="@dimen/x120"
+        android:layout_height="@dimen/y120"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_marginTop="@dimen/x100"
+        android:background="@mipmap/icon_user"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/navigation_header_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_marginTop="@dimen/x20"
+        android:text="游客wuyangting"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/x40"
+        app:layout_constraintLeft_toRightOf="@id/navigation_header_img"
+        app:layout_constraintTop_toTopOf="@id/navigation_header_img" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/x40"
+        android:id="@+id/navigation_header_id"
+        android:text="ID：wuyangting"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/x30"
+        app:layout_constraintLeft_toLeftOf="@id/navigation_header_img"
+        app:layout_constraintTop_toBottomOf="@id/navigation_header_img" />
+</androidx.constraintlayout.widget.ConstraintLayout>
